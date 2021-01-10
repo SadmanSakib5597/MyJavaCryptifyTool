@@ -1,3 +1,5 @@
+# THIS IS AN ASSIGNMENT FOR DESIGN PATTERN COURSE
+
 # MyJavaCryptifyTool
 
 This Tool allows you to en- and decrypt given text using the caesar or polyalphabetic cipher.
