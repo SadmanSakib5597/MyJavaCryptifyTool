@@ -1,4 +1,4 @@
-# THIS IS AN ASSIGNMENT FOR DESIGN PATTERN COURSE
+### THIS IS AN ASSIGNMENT FOR DESIGN PATTERN COURSE
 
 # MyJavaCryptifyTool
 
@@ -12,6 +12,6 @@ This Tool allows you to en- and decrypt given text using the caesar or polyalpha
 
 The encryption methods used are outdated and definitely not secure at all!
 
----
+
 
 For any further question contact me at [i.niklas.fischer@iCloud.com](mailto:i.niklas.fischer@iCloud.com)
